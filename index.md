@@ -2,7 +2,8 @@
 
 [CV](https://github.com/Selmul/SelamMuluneh/blob/main/GIS_Resume...docx)
 
-[Lab0](https://github.com/Selmul/SelamMuluneh1.github.io/blob/master/Lab1.html)
+[Lab0](https://github.com/Selmul/SelamMuluneh/Lab1r.html)
+
 
 You can use the [editor on GitHub](https://github.com/Selmul/SelamMuluneh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
