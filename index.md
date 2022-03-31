@@ -4,7 +4,7 @@
 
 [Lab0](https://github.com/Selmul/SelamMuluneh/blob/main/Lab00.html)
 
-![Image](src)
+![Image](https://github.com/Selmul/SelamMuluneh/blob/main/SelamMuluneh.jpg)
 
 
 You can use the [editor on GitHub](https://github.com/Selmul/SelamMuluneh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
